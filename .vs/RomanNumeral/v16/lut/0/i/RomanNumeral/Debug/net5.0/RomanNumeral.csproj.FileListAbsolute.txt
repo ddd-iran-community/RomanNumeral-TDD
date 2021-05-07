@@ -1,0 +1,9 @@
+C:\Users\Khodadadi\Desktop\RomanNumeral\RomanNumeral\.vs\RomanNumeral\v16\lut\0\b\RomanNumeral\Debug\net5.0\RomanNumeral.deps.json
+C:\Users\Khodadadi\Desktop\RomanNumeral\RomanNumeral\.vs\RomanNumeral\v16\lut\0\b\RomanNumeral\Debug\net5.0\RomanNumeral.dll
+C:\Users\Khodadadi\Desktop\RomanNumeral\RomanNumeral\.vs\RomanNumeral\v16\lut\0\b\RomanNumeral\Debug\net5.0\ref\RomanNumeral.dll
+C:\Users\Khodadadi\Desktop\RomanNumeral\RomanNumeral\.vs\RomanNumeral\v16\lut\0\i\RomanNumeral\Debug\net5.0\RomanNumeral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khodadadi\Desktop\RomanNumeral\RomanNumeral\.vs\RomanNumeral\v16\lut\0\i\RomanNumeral\Debug\net5.0\RomanNumeral.AssemblyInfoInputs.cache
+C:\Users\Khodadadi\Desktop\RomanNumeral\RomanNumeral\.vs\RomanNumeral\v16\lut\0\i\RomanNumeral\Debug\net5.0\RomanNumeral.AssemblyInfo.cs
+C:\Users\Khodadadi\Desktop\RomanNumeral\RomanNumeral\.vs\RomanNumeral\v16\lut\0\i\RomanNumeral\Debug\net5.0\RomanNumeral.csproj.CopyComplete
+C:\Users\Khodadadi\Desktop\RomanNumeral\RomanNumeral\.vs\RomanNumeral\v16\lut\0\i\RomanNumeral\Debug\net5.0\RomanNumeral.dll
+C:\Users\Khodadadi\Desktop\RomanNumeral\RomanNumeral\.vs\RomanNumeral\v16\lut\0\i\RomanNumeral\Debug\net5.0\ref\RomanNumeral.dll
